@@ -10,7 +10,7 @@ function start(route) {
     route(pathname, request, response);
   }
   http.createServer(onRequest).listen(PORT);
-  console.log("Server has started.");
+  console.log("Server has started at http:127.0.0.1:8888");
 }
 
 exports.start = start;
