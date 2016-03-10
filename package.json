@@ -1,0 +1,22 @@
+{
+  "name": "myhome",
+  "version": "1.0.0",
+  "description": "东胜的小窝",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "keywords": [
+    "donglegend",
+    "blogs",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "dongsheng donglegend",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^3.0.3"
+  }
+}

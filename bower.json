@@ -1,0 +1,30 @@
+{
+  "name": "myhome",
+  "version": "0.0.0",
+  "authors": [
+    "dongsheng/donglegend"
+  ],
+  "description": "东胜的小窝",
+  "main": "service.js",
+  "keywords": [
+    "dongsheng",
+    "donglegend",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.6",
+    "jquery": "~2.2.1",
+    "zepto": "~1.1.6"
+  }
+}
