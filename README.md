@@ -17,4 +17,5 @@ npm start
 ```
 # 说明
 初次模版渲染 路由在 routes 中配置，增加和 模版html相同的名字即可
+
 所有ajax请求 路由配置在 ajax/ajaxto.js里面，api接口在api目录下
